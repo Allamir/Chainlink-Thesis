@@ -21,6 +21,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
     "express": "^4.17.0",
-    "mocha": "^7.1.2"
+    "mocha": "^7.1.2",
+    "dotenv": "^16.0.0"
   }
 }

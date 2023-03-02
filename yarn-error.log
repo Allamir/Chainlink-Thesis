@@ -1,20 +1,20 @@
 Arguments: 
-  /home/user/.nvm/versions/node/v12.22.12/bin/node /usr/bin/yarn add dotenv
+  /home/user/.nvm/versions/node/v10.24.1/bin/node /home/user/.nvm/versions/node/v10.24.1/bin/yarn
 
 PATH: 
-  /home/user/.local/share/pnpm:/home/user/.nvm/versions/node/v12.22.12/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  /home/user/.local/share/pnpm:/home/user/.nvm/versions/node/v10.24.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 Yarn version: 
   1.22.19
 
 Node version: 
-  12.22.12
+  10.24.1
 
 Platform: 
   linux x64
 
 Trace: 
-  Error: EACCES: permission denied, unlink '/home/user/nodejsEA/node_modules/.bin/_mocha'
+  Error: EACCES: permission denied, unlink '/home/user/example/nodejsEA/node_modules/.bin/_mocha'
 
 npm manifest: 
   {
